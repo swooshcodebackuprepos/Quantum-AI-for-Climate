@@ -33,12 +33,11 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1: (Nigel Kelly Phillips)
-
-Email: nigelphillips@pursuit.org
-Discord ID: Nigel Phillips - USA
-GitHub ID: swooshcode
-Nationality: USA
-Current affiliation: Pursuit, SNHU
+- Email: nigelphillips@pursuit.org
+- Discord ID: Nigel Phillips - USA
+- GitHub ID: swooshcode
+- Nationality: USA
+- Current affiliation: Pursuit, SNHU
 
 
 Team Member 2:
