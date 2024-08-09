@@ -32,9 +32,14 @@ Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US E
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 
 ### Team Information:
-Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+Team Member 1: (Nigel Kelly Phillips)
+
+Email: nigelphillips@pursuit.org
+Discord ID: Nigel Phillips - USA
+GitHub ID: swooshcode
+Nationality: USA
+Current affiliation: Pursuit, SNHU
+
 
 Team Member 2:
  - Full Name: 
@@ -52,8 +57,14 @@ Team Member 4:
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+# Quantum + AI for Improved Typhoon Prediction in Taiwan
+
+This project leverages Quantum Computing and AI to enhance the accuracy of typhoon predictions. The goal is to extend the prediction window and improve trajectory and severity forecasts, providing more time for disaster preparedness.
+
+## Objectives
+- Develop a hybrid quantum-classical algorithm for typhoon prediction.
+- Utilize quantum simulations and AI for improved trajectory and severity predictions.
+- Provide actionable insights for early warning systems.
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
